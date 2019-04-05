@@ -1,0 +1,30 @@
+{
+  "name": "koa-react-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for Koa and react using Webpack, Jest, and Less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiq2045/koa-react-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "koa",
+    "react",
+    "webpack",
+    "jest",
+    "less"
+  ],
+  "author": "Charles Oroko, building from an example by Joan Boixados",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiq2045/koa-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/chiq2045/koa-react-boilerplate#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
