@@ -1,7 +1,7 @@
 {
   "name": "koa-react-boilerplate",
   "version": "1.0.0",
-  "description": "A boilerplate for Koa and react using Webpack, Jest, and Less",
+  "description": "A boilerplate for Koa and React using Webpack, Jest, and Less",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,8 @@
     "react",
     "webpack",
     "jest",
-    "less"
+    "less",
+    "eslint"
   ],
   "author": "Charles Oroko, building from an example by Joan Boixados",
   "license": "MIT",
